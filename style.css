@@ -25,6 +25,7 @@ body {
     align-items: center;
     justify-content: center;
     gap: 3rem;
+    flex-wrap: wrap;
 }
 
 .hand {
@@ -71,7 +72,7 @@ body {
 }
 
 .new-btn {
-    width: 15%;
+    width: 250px;
     height: 100px;
     background-color: #ff8906;
     border: none;
